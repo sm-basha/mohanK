@@ -1,0 +1,314 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<title>Nowfloats</title>
+<style>
+body{
+	padding:0;
+	margin:0;
+}
+h4, h6{
+	margin:0;
+}
+.nowloats-main{
+	background:#f1f2f3;
+	padding:40px 0;
+}
+.nowfloats-middle{
+width: 730px;
+margin: auto;
+display: grid;
+grid-template-columns: 23.5% 23.5% 23.5% 23.5%;
+grid-column-gap: 2%;
+}
+.nowfloats-column{
+    margin: 0 0 25px;
+}
+.nowfloats-column-img img{
+	display: block;
+margin: auto;
+width: 135px;
+border-radius: 18px;
+border: 5px solid #fff;
+}
+.nowfloats-column-info{
+	text-align:center;
+}
+.nowfloats-column-info h4{
+color: #ffbc00;
+font-family: 'Gothic A1', sans-serif;
+font-size: 14px;
+line-height: 18px;
+padding: 12px 0 1px;
+}
+.nowfloats-column-info h6{
+color: #494a4b;
+font-family: 'Gothic A1', sans-serif;
+font-size: 12px;
+line-height: 16px;
+}
+.nowfloats-top{
+background: #ffb900;
+padding: 9px 0;
+}
+.nowfloats-top .nowfloats-logo img{
+	display:block;
+	margin:auto;
+}
+.nowfloats-text{
+background: #606162;	
+}
+.nowfloats-text h5{
+color: #fff;
+margin: 0;
+padding: 15px 0;
+text-align: center;
+font-size: 22px;
+font-family: 'Gothic A1', sans-serif;
+line-height: 24px;
+}
+</style>
+</head>
+
+<body>
+
+
+<div class="nowfloats-top">
+<div class="nowfloats-logo"><img src="images/nowfloats-logo.jpg" alt="" /></div>
+</div>
+
+<div class="nowfloats-text">
+<h5>Congratulations to all Spot Incentive Winners</h5>
+</div>
+
+<div class="nowloats-main">
+<div class="nowfloats-middle">
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Ashutosh.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Ashutosh Kumar</h4>
+<h6>Amount: INR 4000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Ramu.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Ramu B</h4>
+<h6>Amount: INR 4000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Vishwas.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Vishwas Ananda Gaikwad</h4>
+<h6>Amount: INR 2000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Neeraj.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Nagesh Dasharath Marne</h4>
+<h6>Amount: INR 2000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Samir.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Samir Hiramanji Ghugal</h4>
+<h6>Amount: INR 2000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Priyadharshini.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Priyadharshini K </h4>
+<h6>Amount: INR 2000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Prabhat Ranjan.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Prabhat Ranjan</h4>
+<h6>Amount: INR 2000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Sharad.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Kadam Sharad Dattatraya</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Sagun Srivastava.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Sagun Srivastava</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Ashish.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Ashish Jain</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Ningaraj Gowda.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Ningaraj Gowda</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Shivam Gupta.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Shivam Gupta</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Sandeep Kumar.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Sandeep Kumar</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Prince.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Prince Singh Rajput</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Anil Tatyarao Patil.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Anil Tatyarao Patil</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Deshmukh Amol Dipak.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Deshmukh Amol Dipak</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Rahul Ramakant Upadhyay.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Rahul Ramakant Upadhyay</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Suriya.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Suriya</h4>
+<h6>Amount: INR 1000</h6>
+</div>
+</div>
+</div>
+
+<div class="nowfloats-column">
+<div class="nowfloats-column-details">
+<div class="nowfloats-column-img"><img src="images/Shantilata Banmali Samal.jpg" alt="" /></div>
+
+<div class="nowfloats-column-info">
+<h4>Shantilata Banmali Samal</h4>
+<h6>Amount: INR 500</h6>
+</div>
+</div>
+</div>
+
+
+<label for="cars">Choose a car:</label>
+
+<select name="cars" id="cars">
+  <option value="volvo">MLC Doctor</option>
+  <option value="saab">MLC Service</option>
+  <option value="mercedes">MLC Retails</option>
+  <option value="audi">MLC Education</option>
+</select>
+
+<button type="button" class="btn btn-primary">Paynow</button>
+<input type="text" 
+
+</div>
+</div>
+</body>
+</html>
